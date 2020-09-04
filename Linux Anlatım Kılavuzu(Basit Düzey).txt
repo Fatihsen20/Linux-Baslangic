@@ -78,7 +78,7 @@ Kullanımı: ssh -X kullanıcıAdı@sunucuAdresi
                                     Tuş İşlevleri​
 
 
-alt+f1:[font=verdana,geneva,sans-serif] sistem menüsünü açar
+alt+f1: sistem menüsünü açar
 alt+f2: komut başlatıcı açar
 alt+f4: odakta olan pencereyi kapatır
 alt+mouse: pencere taşımak için
